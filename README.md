@@ -1,7 +1,7 @@
 
 # 📚 WikiSyllabus
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-∞-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-∞-orange.svg?style=flat-square)]([#contributors](https://github.com/The-Purple-Movement/WikiSyllabus/blob/main/CONTRIBUTORS.md))
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Open Issues](https://img.shields.io/github/issues/The-Purple-Movement/WikiSyllabus)](https://github.com/The-Purple-Movement/WikiSyllabus/issues)
 
@@ -38,7 +38,7 @@ Each syllabus file is organized in the following structure:
 
 ```
 
-/university/branch/year/semester/xx.md
+universities/university/branch/year/semester/xx.md
 
 ```
 
@@ -46,7 +46,9 @@ Each syllabus file is organized in the following structure:
 
 ```
 
-/ktu/computer-science/2019/s8/01.md
+
+
+universities/ktu/computer-science/2019/s8/01.md
 
 ````
 
