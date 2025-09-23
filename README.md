@@ -1,4 +1,4 @@
-
+![TPMLOGO](https://purple-movement.com/assets/logo_pm-Bx55hodj.png)
 # 📚 WikiSyllabus
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-∞-orange.svg?style=flat-square)]([#contributors](https://github.com/The-Purple-Movement/WikiSyllabus/blob/main/CONTRIBUTORS.md))
